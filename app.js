@@ -25,4 +25,4 @@ class combination{
 const dump = new combination();
 const arr = [1, 2,4, 5];
 const result = dump.combine1(arr);
-// program is working fine
+// program is working fine // looks good
