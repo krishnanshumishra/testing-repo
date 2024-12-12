@@ -28,3 +28,4 @@ const result = dump.combine1(arr);
 // program is working fine // looks good
 testing the new one
 testing the new branch
+some new chnages
